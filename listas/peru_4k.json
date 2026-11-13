@@ -1,0 +1,1811 @@
+{
+  "nombre": "Perú 4K",
+  "total": 199,
+  "canales": [
+    {
+      "nombre": "A&E Latin America (1080p)",
+      "id": "AELatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png",
+      "grupo": "Entertainment",
+      "calidad": "1080p",
+      "url": "http://138.121.15.230:9002/A&E/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "America Television (1080p)",
+      "id": "AmericaTelevision.pe@SD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/AMERICA-TV/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ATV (Peru) (1080p)",
+      "id": "ATV.pe@SD",
+      "logo": "https://i.imgur.com/eUzYZfg.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/ATV/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ATV Sur (1080p)",
+      "id": "ATVSur.pe@SD",
+      "logo": "https://i.imgur.com/LnyVa5H.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/ATV-SUR/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ATV+ (1080p)",
+      "id": "ATVPlus.pe@SD",
+      "logo": "https://i.imgur.com/fY9256H.png",
+      "grupo": "News",
+      "calidad": "1080p",
+      "url": "http://45.171.108.253:8888/ATV/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "AXN Latin America Andes (1080p)",
+      "id": "AXNLatinAmerica.us@Andes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",
+      "grupo": "Movies",
+      "calidad": "1080p",
+      "url": "http://181.78.8.199:8000/play/a0cu/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Canal N (1080p)",
+      "id": "CanalN.pe@SD",
+      "logo": "https://i.imgur.com/Xytvw3J.png",
+      "grupo": "News",
+      "calidad": "1080p",
+      "url": "http://187.102.208.209:8000/play/a0az/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Chikitoonz (1080p)",
+      "id": "Chikitoonz.pe@SD",
+      "logo": "https://chikitoonz.com/site/wp-content/uploads/2024/08/logochikitoonz2.png",
+      "grupo": "Kids",
+      "calidad": "1080p",
+      "url": "http://45.70.201.81:8000/play/a00p/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Cinecanal Pacific (1080p)",
+      "id": "Cinecanal.us@Pacific",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/960px-CinecanalLA.png",
+      "grupo": "Movies",
+      "calidad": "1080p",
+      "url": "http://138.121.15.230:9002/CINECANAL/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Discovery Channel Latin America (1080p)",
+      "id": "DiscoveryChannelLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+      "grupo": "Entertainment",
+      "calidad": "1080p",
+      "url": "http://45.171.64.30:6060/play/a032/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Disney Channel Latin America (1080p)",
+      "id": "DisneyChannelLatinAmerica.ar@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+      "grupo": "Animation;Kids",
+      "calidad": "1080p",
+      "url": "http://15.204.246.24:8080/DisneyHD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Disney Jr. Latin America South (1080p)",
+      "id": "DisneyJrLatinAmerica.ar@South",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+      "grupo": "Animation;Kids",
+      "calidad": "1080p",
+      "url": "http://45.185.163.75:8000/play/a016/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "DSports (1080p)",
+      "id": "DSports.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://38.187.7.252:8000/play/a03d/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ESPN 2 Latin America (1080p)",
+      "id": "ESPN2LatinAmerica.us@South",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ESPN 4 Latin America (1080p)",
+      "id": "ESPN4LatinAmerica.us@South",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ESPN 5 Latin America (1080p)",
+      "id": "ESPN5LatinAmerica.us@South",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ESPN 6 Latin America (1080p)",
+      "id": "ESPN6LatinAmerica.us@SD",
+      "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/960px-ESPN_6_logo.svg.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ESPN 7 Latin America (1080p)",
+      "id": "ESPN7LatinAmerica.us@SD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/960px-ESPN_7_logo.svg.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ESPN Latin America (1080p)",
+      "id": "ESPNLatinAmerica.us@South",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Exitosa TV (1080p)",
+      "id": "ExitosaTV.pe@SD",
+      "logo": "https://i.imgur.com/pu0BSB7.png",
+      "grupo": "News",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/EXITOSA/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "FX Latin America (1080p)",
+      "id": "FXLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png",
+      "grupo": "Entertainment",
+      "calidad": "1080p",
+      "url": "http://15.204.246.24:8080/FXHD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Genios TV (1080p)",
+      "id": "GeniosTV.pe@SD",
+      "logo": "https://i.imgur.com/iH2Lx6E.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://sc3.wasidata.com/Genios2_1902/video.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Global TV (Peru) (1080p)",
+      "id": "GlobalTV.pe@SD",
+      "logo": "https://i.imgur.com/yuEou9C.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/GLOBAL/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "History Latin America (1080p)",
+      "id": "HistoryLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
+      "grupo": "Documentary",
+      "calidad": "1080p",
+      "url": "http://15.204.246.24:8080/HistoryHD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Justicia TV (Peru) (1080p)",
+      "id": "JusticiaTV.pe@SD",
+      "logo": "https://i.imgur.com/VOjLXJd.png",
+      "grupo": "Legislative",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/JUSTICIA-TV/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "L1 (1080p)",
+      "id": "L1.pe@SD",
+      "logo": "https://i.imgur.com/eRmXneK.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://45.4.1.201:8000/play/a1ai/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "L1 Max (1080p)",
+      "id": "L1Max.pe@SD",
+      "logo": "https://i.imgur.com/2fziU2B.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/LIGA-1-MAX/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "La Tele (1080p)",
+      "id": "LaTele.pe@SD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png",
+      "grupo": "Entertainment",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/LA-TELE/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "La Tremenda TV (1080p)",
+      "id": "LaTremendaTV.pe@TDT62",
+      "logo": "https://i.pinimg.com/736x/46/24/d3/4624d356bfdaa6254c2597f686108841.jpg",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://iptv.latremenda.pe/LaTremendaTv/tracks-v1a1/mono.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Latina (1080p)",
+      "id": "Latina.pe@SD",
+      "logo": "https://i.imgur.com/MOsWriY.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/LATINA/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Latina Clasicos (1080p)",
+      "id": "LatinaClasicos.pe@SD",
+      "logo": "https://i.imgur.com/q0dAWyj.png",
+      "grupo": "Series",
+      "calidad": "1080p",
+      "url": "http://45.171.108.253:8888/LATINA/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Latina Noticias 24/7 (1080p)",
+      "id": "LatinaNoticias247.pe@SD",
+      "logo": "https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png",
+      "grupo": "News",
+      "calidad": "1080p",
+      "url": "https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"General\",Antena 1 (Peru) (1080p)",
+      "id": "Antena1.pe@SD",
+      "logo": "https://i.imgur.com/Bt0yGtw.jpeg",
+      "grupo": "",
+      "calidad": "1080p",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8",
+      "opciones": [
+        "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "nombre": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"General\",VivaTV (1080p)",
+      "id": "VivaTV.pe@SD",
+      "logo": "https://i.imgur.com/m44jTZK.png",
+      "grupo": "",
+      "calidad": "1080p",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/vivatv.stream/playlist.m3u8",
+      "opciones": [
+        "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "nombre": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"News\",FuegoTV (1080p)",
+      "id": "FuegoTV.pe@SD",
+      "logo": "https://i.imgur.com/1LuNEX4.png",
+      "grupo": "",
+      "calidad": "1080p",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/fuegotv.stream/playlist.m3u8",
+      "opciones": [
+        "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "nombre": "like Gecko) Chrome/150.0.0.0 Safari/537.36\" group-title=\"General\",Juntos TV (Peru) (1080p)",
+      "id": "JuntosTV.pe@SD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Juntos_TV_Logo.png",
+      "grupo": "",
+      "calidad": "1080p",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/juntos_tv.stream/playlist.m3u8",
+      "opciones": [
+        "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "nombre": "like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18\" group-title=\"Comedy\",Comedy Central Latin America (1080p)",
+      "id": "ComedyCentralLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+      "grupo": "",
+      "calidad": "1080p",
+      "url": "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8",
+      "opciones": [
+        "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18"
+      ]
+    },
+    {
+      "nombre": "Movistar Deportes (1080p)",
+      "id": "MovistarDeportes.pe@SD",
+      "logo": "https://i.imgur.com/Zt3iE86.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://195.178.110.110/movistar/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "MTV Latin America (1080p)",
+      "id": "MTVLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+      "grupo": "Entertainment",
+      "calidad": "1080p",
+      "url": "http://15.204.246.24:8080/MTVHD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Nick Jr. Latin America (1080p)",
+      "id": "NickJrLatinAmerica.us@Panregional",
+      "logo": "https://i.imgur.com/KT4tdQs.png",
+      "grupo": "Kids",
+      "calidad": "1080p",
+      "url": "https://streaming.onnethn.com/NICK_JR/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Nickelodeon Latin America (1080p)",
+      "id": "NickelodeonLatinAmerica.us@Panregional",
+      "logo": "https://i.imgur.com/E84jnP8.png",
+      "grupo": "Kids",
+      "calidad": "1080p",
+      "url": "http://181.78.79.131:8000/play/a0qm",
+      "opciones": []
+    },
+    {
+      "nombre": "Pakapaka (1080p)",
+      "id": "Pakapaka.ar@SD",
+      "logo": "https://i.imgur.com/GJbRWwH.png",
+      "grupo": "Kids",
+      "calidad": "1080p",
+      "url": "http://138.59.227.20:8000/play/a05t/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Panamericana TV (1080p)",
+      "id": "PanamericanaTV.pe@SD",
+      "logo": "https://i.imgur.com/uQhEDES.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://45.171.108.253:8888/PANAMERICANA/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "PBO (1080p)",
+      "id": "PBO.pe@SD",
+      "logo": "https://i.imgur.com/vBpxX4S.png",
+      "grupo": "News",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/PBO/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Radio Onda Digital (1080p)",
+      "id": "RadioOndaDigital.pe@SD",
+      "logo": "https://i.imgur.com/Lid5RTv.png",
+      "grupo": "Music",
+      "calidad": "1080p",
+      "url": "https://live.ondadigitaltv.com/RADIOODTV/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Radio San Borja TV (1080p)",
+      "id": "RadioSanBorjaTV.pe@SD",
+      "logo": "https://i.imgur.com/75dJBtH.png",
+      "grupo": "Music",
+      "calidad": "1080p",
+      "url": "https://stream.mediacorp.pe/srt/3/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Riku TV (1080p)",
+      "id": "RikuTV.pe@SD",
+      "logo": "https://i.imgur.com/XIDC4Mv.png",
+      "grupo": "Entertainment",
+      "calidad": "1080p",
+      "url": "https://amixtv.com:8081/rikutv/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "RPP TV (1080p)",
+      "id": "RPPTV.pe@SD",
+      "logo": "https://i.imgur.com/oBz3CgE.png",
+      "grupo": "News",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/RPP/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Rumbo Minero TV (1080p)",
+      "id": "RumboMineroTV.pe@SD",
+      "logo": "https://www.rumbominero.com/wp-content/uploads/2021/05/logo_RM_AM_2.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://45.70.201.81:8000/play/a018/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Space (1080p)",
+      "id": "Space.ar@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
+      "grupo": "Undefined",
+      "calidad": "1080p",
+      "url": "http://45.171.64.30:6060/play/a04n/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Star Channel Latin America (1080p)",
+      "id": "StarChannelLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png",
+      "grupo": "Movies;Series",
+      "calidad": "1080p",
+      "url": "http://15.204.246.24:8080/STARCHANNELHD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Studio Universal Latin America (1080p)",
+      "id": "StudioUniversalLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png",
+      "grupo": "Undefined",
+      "calidad": "1080p",
+      "url": "http://15.204.246.24:8080/StudioUniversalHD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Television Tarapoto (1080p)",
+      "id": "TelevisionTarapoto.pe@SD",
+      "logo": "https://i.imgur.com/Dzen7sh.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://45.5.57.58:8000/play/a038/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TLC Latin America (1080p)",
+      "id": "TLCLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png",
+      "grupo": "Lifestyle",
+      "calidad": "1080p",
+      "url": "http://38.134.250.110:8000/play/a00n/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TNT Series Latin America (1080p)",
+      "id": "TNTSeriesLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",
+      "grupo": "Series",
+      "calidad": "1080p",
+      "url": "http://168.196.127.137:6001/play/a095/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Trivu (1080p)",
+      "id": "Trivu.pe@SD",
+      "logo": "https://i.imgur.com/QrUYjOS.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/TRIVU-TV/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV Peru (1080p)",
+      "id": "TVPeru.pe@SD",
+      "logo": "https://i.imgur.com/6io0IrX.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://181.224.200.5:2277/play/a0dx/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV Peru Noticias (1080p)",
+      "id": "TVPeruNoticias.pe@SD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/960px-TV_Per%C3%BA_Noticias_-_2019_logo.png",
+      "grupo": "News",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/TV-PERU-NOTICIAS/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TVenLinea (1080p)",
+      "id": "TVenLinea.pe@SD",
+      "logo": "https://i.imgur.com/txV8lw0.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://srt.tvdatta.com/tvenlinea/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Unitel (Peru) (1080p)",
+      "id": "Unitel.pe@SD",
+      "logo": "https://i.imgur.com/F0PWpyc.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://play.agenciastreaming.com:8081/uniteltv/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Universal TV Latin America (1080p)",
+      "id": "UniversalTVLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/960px-Universal_TV_logo.svg.png",
+      "grupo": "Undefined",
+      "calidad": "1080p",
+      "url": "http://15.204.246.24:8080/UniversalHD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "WEST (1080p)",
+      "id": "WEST.pe@SD",
+      "logo": "https://aptcperu.org/wp-content/uploads/2026/04/logoMesa-de-trabajo-1-copia-5.png",
+      "grupo": "Entertainment",
+      "calidad": "1080p",
+      "url": "https://cablered.iptvperu.tv:1936/cablered/west/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Willax TV (1080p)",
+      "id": "WillaxTV.pe@SD",
+      "logo": "https://i.imgur.com/bZnDDPH.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "http://190.93.224.42/WILLAX/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "WOW TV (1080p)",
+      "id": "WOWTV.sv@SD",
+      "logo": "https://i.imgur.com/dHxaWyp.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://cdn-edge1.cef-technology.com/wow/wow_tv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "36 TV Huacho (720p)",
+      "id": "36TVHuacho.pe@SD",
+      "logo": "https://i.imgur.com/F4NZM3s.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/36tvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ABC Teleshow (720p)",
+      "id": "ABCTeleshow.pe@SD",
+      "logo": "https://i.imgur.com/cF7gJ2Q.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/abctv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ABTelevision (720p)",
+      "id": "ABTelevision.pe@SD",
+      "logo": "https://i.imgur.com/tqMDscD.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Agro TV (Peru) (720p)",
+      "id": "AgroTV.pe@SD",
+      "logo": "https://i.imgur.com/1uLGa3w.png",
+      "grupo": "Outdoor",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Altura TV (720p)",
+      "id": "AlturaTV.pe@SD",
+      "logo": "https://i.imgur.com/U6GwIL7.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/urbanatv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Amazonica TV (720p)",
+      "id": "AmazonicaTV.pe@SD",
+      "logo": "https://i.imgur.com/22ebHAX.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "America Internacional (720p)",
+      "id": "AmericaInternacional.pe@SD",
+      "logo": "https://i.imgur.com/4ZTKAGd.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://api-ott.americatv.com.pe/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=whaletv&tag_id=139913&app_name=Whale+TV%2B&app_store=Browser&ic=IAB1&url=&wtv_channel_id=0470&content_id=&content_genre=News&content_title=&content_series=&content_season=&content_episode=&language=&dur=&rating=12%2B&content_producer_name=OTTera_AmericaTV_AmericaTelevision&content_categories=IAB19-29%2CIAB12&content_custom_1_param=OTTera&content_custom_2_param=F%2CM&content_custom_3_param=18-20%2C21-24%2C25-29%2C30-34%2C35-39%2C40-44%2C45-49%2C50-54%2C55-59&tv_language=&device_make=&tv_vendor=&brand_name=&device_model=&tv_model=&gdpr=1&gdpr_consent=&did=&ua=&ip=&dnt=&lmt=&coppa=0&us_privacy=1YNN&min_dur=5&max_dur=30&cb=&h=&w=&content_livestream=1&placement=1&ap=1&mute=0&skip=0&ads.gdpr=0",
+      "opciones": []
+    },
+    {
+      "nombre": "Andes Television (720p)",
+      "id": "AndesTelevision.pe@SD",
+      "logo": "https://i.imgur.com/CsW4Op8.png",
+      "grupo": "Religious",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Andina RTV (720p)",
+      "id": "AndinaRTV.pe@SD",
+      "logo": "https://i.imgur.com/KoQPpVh.jpeg",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/andinatvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Antena SUR (720p)",
+      "id": "AntenaSUR.pe@SD",
+      "logo": "https://i.imgur.com/4aHrD2l.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Arpegio TV (720p)",
+      "id": "ArpegioTV.pe@SD",
+      "logo": "https://i.imgur.com/mxnKK1a.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/arpegioSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "AsiriTV (720p) [Not 24/7]",
+      "id": "AsiriTV.pe@SD",
+      "logo": "https://i.imgur.com/7bGVFBa.png",
+      "grupo": "Culture",
+      "calidad": "720p",
+      "url": "https://video2.lhdserver.es/asiritv/live.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Atlantis Radio TV (720p)",
+      "id": "AtlantisRadioTV.pe@SD",
+      "logo": "https://i.imgur.com/1eB9roP.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/atlantisSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Autentica Television (720p) [Not 24/7]",
+      "id": "AutenticaTelevision.pe@SD",
+      "logo": "https://i.imgur.com/bEJK3RN.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Bella Abanquina TV (720p)",
+      "id": "BellaAbanquinaTV.pe@SD",
+      "logo": "https://i.imgur.com/bORM4rt.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Bethel TV (720p)",
+      "id": "BethelTV.pe@SD",
+      "logo": "https://i.imgur.com/zCVh765.png",
+      "grupo": "Religious",
+      "calidad": "720p",
+      "url": "https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Bicolor+ (720p)",
+      "id": "BicolorPlus.pe@SD",
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790182833200/6a8e1eb7f5d6_640_360.png",
+      "grupo": "Sports",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Bicolor+ Premium 2 (720p)",
+      "id": "BicolorPlusPremium2.pe@SD",
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194132371/1e57475a9a6b_640_360.png",
+      "grupo": "Sports",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium2_abr/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Bicolor+ Premium 3 (720p)",
+      "id": "BicolorPlusPremium3.pe@SD",
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/03/1790194198636/d91910da3254_640_360.png",
+      "grupo": "Sports",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium3_abr/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "BNB Digital (720p)",
+      "id": "BNBDigital.pe@SD",
+      "logo": "https://i.imgur.com/MgEN1F8.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Cadena TV (720p) [Not 24/7]",
+      "id": "CadenaTV.pe@HD",
+      "logo": "https://i.imgur.com/stvzqzd.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Cajamarca TV (720p)",
+      "id": "CajamarcaTV.pe@SD",
+      "logo": "https://i.imgur.com/pC57NYv.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/cajamarcatvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Canal 21 Huancayo (720p)",
+      "id": "Canal21Huancayo.pe@HD",
+      "logo": "https://i.imgur.com/Kfdkm06.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://play.agenciastreaming.com:8081/tvwanka/tracks-v1/index.fmp4.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Canal 25 Ayacucho (720p)",
+      "id": "Canal25Ayacucho.pe@SD",
+      "logo": "https://i.imgur.com/lU02cWc.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/canal25ayacucho/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Canal 8 Catacaos (720p) [Not 24/7]",
+      "id": "Canal8Catacaos.pe@SD",
+      "logo": "https://i.imgur.com/O5MrFjY.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/canal8/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Canal IPe (720p)",
+      "id": "CanalIPe.pe@SD",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/960px-Identidad_Peruana_ipe_2020.png",
+      "grupo": "Family",
+      "calidad": "720p",
+      "url": "http://187.102.210.46/IPE/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "CANAL M Television (720p)",
+      "id": "CANALMTelevision.pe@SD",
+      "logo": "https://i.imgur.com/EcdNFuJ.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/anqaratv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Canal Mas TV (720p)",
+      "id": "CanalMasTV.pe@SD",
+      "logo": "https://i.imgur.com/rdHygJ1.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/mastvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Casma TV (720p)",
+      "id": "CasmaTV.pe@SD",
+      "logo": "https://i.imgur.com/42aE0nm.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/casmatvSRT-TRA/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Charapa TV (720p)",
+      "id": "CharapaTV.pe@SD",
+      "logo": "https://i.imgur.com/tFRmMkf.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/charapatvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Conecta2TV (720p) [Not 24/7]",
+      "id": "Conecta2TV.pe@SD",
+      "logo": "https://i.imgur.com/W6FDUwt.png",
+      "grupo": "News",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/conecta2/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Controversia TV (720p) [Not 24/7]",
+      "id": "ControversiaTV.pe@SD",
+      "logo": "https://i.imgur.com/X7cPyP2.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "CR Television (720p) [Not 24/7]",
+      "id": "CRTelevision.pe@SD",
+      "logo": "https://i.imgur.com/oxycMeA.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/crtvmux/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Cultura 24 (720p)",
+      "id": "Cultura24.pe@SD",
+      "logo": "https://i.imgur.com/h0LxXsx.png",
+      "grupo": "Culture",
+      "calidad": "720p",
+      "url": "https://www.opencaster.com/resources/hls_stream/cultura24.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Dac TV (720p)",
+      "id": "DacTV.pe@SD",
+      "logo": "https://i.imgur.com/g4pZ3ZW.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Discovery Science Latin America ColombiaPeru (720p)",
+      "id": "DiscoveryScienceLatinAmerica.us@ColombiaPeru",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png",
+      "grupo": "Science",
+      "calidad": "720p",
+      "url": "http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Doble C Television (720p)",
+      "id": "DobleCTelevision.pe@SD",
+      "logo": "https://i.imgur.com/2zCD4TB.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "DTV (Peru) (720p)",
+      "id": "DTV.pe@SD",
+      "logo": "https://i.imgur.com/OSvegAq.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ECO Television (720p)",
+      "id": "ECOTelevision.pe@SD",
+      "logo": "https://i.imgur.com/ly1KU6w.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/ecotv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Folklore TV (720p)",
+      "id": "FolkloreTV.pe@SD",
+      "logo": "https://i.imgur.com/QdOGJes.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://play.folkloretv.pe/StreamSD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Imperial Television (720p)",
+      "id": "ImperialTelevision.pe@SD",
+      "logo": "https://i.imgur.com/eYXqkyN.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/imperialSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Intuitiva TV (720p)",
+      "id": "IntuitivaTV.pe@SD",
+      "logo": "https://i.imgur.com/zcehR4M.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://video2.lhdserver.es/cableperu/live.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "JN 19 (720p)",
+      "id": "JN19.pe@SD",
+      "logo": "https://i.imgur.com/dudxyqk.png",
+      "grupo": "Religious",
+      "calidad": "720p",
+      "url": "http://187.102.210.46/JN19/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "JNE TV (720p)",
+      "id": "JNETV.pe@SD",
+      "logo": "https://i.imgur.com/b25XfCj.png",
+      "grupo": "Legislative",
+      "calidad": "720p",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Karibena (720p)",
+      "id": "Karibena.pe@SD",
+      "logo": "https://i.imgur.com/cgHjg1e.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "http://187.102.210.46/KARIBENA/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "La Fabulosa TV (720p)",
+      "id": "LaFabulosaTV.pe@SD",
+      "logo": "https://i.imgur.com/GjME5H0.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://eu1.servers10.com:8081/8004/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Latina Podcast (720p)",
+      "id": "LatinaPodcast.pe@SD",
+      "logo": "https://assets.rudo.video/assets/latina/live/backgroundApi_347d1f0b8f6b597bc08abeb60c975c471769447202.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://redirector.rudo.video/hls-video/plus226/latina4/latina4.smil/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Lider TV (Peru) (720p)",
+      "id": "LiderTV.pe@SD",
+      "logo": "https://i.imgur.com/naZXUdR.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://chankillo.agenciastreaming.com/lidertv/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"General\",Telelima (720p)",
+      "id": "Telelima.pe@SD",
+      "logo": "https://i.imgur.com/HzWRvXc.png",
+      "grupo": "",
+      "calidad": "720p",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8",
+      "opciones": [
+        "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "nombre": "LotPlus TV (720p)",
+      "id": "LotPlusTV.pe@SD",
+      "logo": "https://i.imgur.com/gBbCDCL.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://ontvcable.streamottmas.workers.dev/ontvcable.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Master TV (720p)",
+      "id": "MasterTV.pe@SD",
+      "logo": "https://i.imgur.com/K2ZimRv.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mastertvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Media TV (720p)",
+      "id": "MediaTV.pe@SD",
+      "logo": "https://i.imgur.com/BAaR5T5.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mediatv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Mega TV Jaen (720p)",
+      "id": "MegaTVJaen.pe@SD",
+      "logo": "https://i.imgur.com/zK1YcpJ.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/megatv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Miel TV (720p)",
+      "id": "MielTV.pe@SD",
+      "logo": "https://i.imgur.com/dPSFrCs.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Nacional Tv Peru (720p)",
+      "id": "NacionalTvPeru.pe@SD",
+      "logo": "https://i.imgur.com/ad0GNqa.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/nacionaltv_peru.stream/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Nativa (720p)",
+      "id": "Nativa.pe@SD",
+      "logo": "https://i.imgur.com/Y9k9XSO.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "http://187.102.210.46/NATIVATV/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Nativa TV Satipo (720p)",
+      "id": "NativaTVSatipo.pe@SD",
+      "logo": "https://i.imgur.com/ScCAgGB.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/nativachanchamayoSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Neo TV (Peru) (720p)",
+      "id": "NeoTV.pe@SD",
+      "logo": "https://i.imgur.com/bS5JtYX.jpeg",
+      "grupo": "Entertainment",
+      "calidad": "720p",
+      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/DigitalTV/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "NZK Television (720p)",
+      "id": "NZKTelevision.pe@SD",
+      "logo": "https://i.imgur.com/IqsB6VR.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://eu1.servers10.com:8081/8258/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "ONDA DIGITAL (720p)",
+      "id": "ONDADIGITAL.pe@SD",
+      "logo": "https://i.imgur.com/3R2emx7.jpg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Onda TV (Peru) (720p)",
+      "id": "OndaTV.pe@SD",
+      "logo": "https://i.imgur.com/gbjdiLW.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Ovacion TV (720p) [Not 24/7]",
+      "id": "OvacionTV.pe@SD",
+      "logo": "https://i.imgur.com/7Xndgxk.png",
+      "grupo": "Sports",
+      "calidad": "720p",
+      "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Ozono TV (720p)",
+      "id": "OzonoTV.pe@SD",
+      "logo": "https://i.imgur.com/Wkdibpv.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/ozonotv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Peques TV (720p)",
+      "id": "PequesTV.pe@SD",
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/01/06/04/1767647409377/6123aa5e7fc7.png",
+      "grupo": "Kids",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "PiuraTV (720p)",
+      "id": "PiuraTV.pe@SD",
+      "logo": "https://i.imgur.com/KnJAqbd.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Planea TV (720p)",
+      "id": "PlaneaTV.pe@SD",
+      "logo": "https://i.imgur.com/EoLhvBN.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/planeatvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Prattel TV (720p)",
+      "id": "PrattelTV.pe@SD",
+      "logo": "https://pratteltv.lat/wp-content/uploads/2026/05/cropped-V2.jpg",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://183.bozztv.com/ssh101/ssh101/pratteltvperu/playlist.m3u8",
+      "opciones": [
+        "#EXTVLCOPT:http-referrer=https://www.pratteltv.lat"
+      ]
+    },
+    {
+      "nombre": "Qollasuyo TV (720p)",
+      "id": "QollasuyoTV.pe@SD",
+      "logo": "https://i.imgur.com/6bi7fGB.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Qosqo Times (720p)",
+      "id": "QosqoTimes.pe@SD",
+      "logo": "https://i.imgur.com/oWJauwQ.png",
+      "grupo": "News",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Radio Master (720p)",
+      "id": "RadioMaster.pe@HD",
+      "logo": "https://i.imgur.com/AUoxyzP.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Radio Rumba TV (720p)",
+      "id": "RadioRumbaTV.pe@SD",
+      "logo": "https://i.imgur.com/BYcxI03.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rumba/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Radio Uno Tacna (720p)",
+      "id": "RadioUnoTacna.pe@SD",
+      "logo": "https://i.imgur.com/PswowQP.png",
+      "grupo": "News",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/radiounotv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "RadioTV Oriente (720p)",
+      "id": "RadioTVOriente.pe@SD",
+      "logo": "https://i.imgur.com/iHaFLHX.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/tvoriente/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Real Television (720p)",
+      "id": "RealTelevision.pe@SD",
+      "logo": "https://i.imgur.com/7KECyh5.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Region TV Callao (720p)",
+      "id": "RegionTVCallao.pe@SD",
+      "logo": "https://i.imgur.com/I4grcqk.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/regiontvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "RN Television (720p) [Not 24/7]",
+      "id": "RNTelevision.pe@SD",
+      "logo": "https://i.imgur.com/oFGiW7u.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "RSelvaTV (720p)",
+      "id": "RSelvaTV.pe@SD",
+      "logo": "https://i.imgur.com/DAK5ZnD.png",
+      "grupo": "News",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/selvaticaSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "RTP (Peru) (720p)",
+      "id": "RTP.pe@SD",
+      "logo": "https://i.imgur.com/nHMqAHn.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "RumbaMix TV (720p)",
+      "id": "RumbaMixTV.pe@SD",
+      "logo": "https://i.imgur.com/rwA3HIp.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/mixtvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Solar Television (720p)",
+      "id": "SolarTelevision.pe@SD",
+      "logo": "https://i.imgur.com/ufnWpUf.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/solartvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "SolTV (Peru) (720p)",
+      "id": "SolTV.pe@SD",
+      "logo": "https://i.imgur.com/GtNkuAc.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Sqala TV (720p)",
+      "id": "SqalaTV.pe@SD",
+      "logo": "https://i.imgur.com/DJ05m8s.png",
+      "grupo": "Sports",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Studio Pasco TV (720p)",
+      "id": "StudioPascoTV.pe@SD",
+      "logo": "https://i.imgur.com/zgyNuVE.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Super Canal (Peru) (720p)",
+      "id": "SuperCanal.pe@SD",
+      "logo": "https://i.imgur.com/eotfCMd.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TELE 6 (720p)",
+      "id": "TELE6.bo@SD",
+      "logo": "https://i.imgur.com/p7tt72X.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Telecolor Yurimaguas (720p) [Not 24/7]",
+      "id": "TelecolorYurimaguas.pe@SD",
+      "logo": "https://i.imgur.com/Ug6XNIU.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/telecolormux/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Teleselva (720p)",
+      "id": "Teleselva.pe@SD",
+      "logo": "https://i.imgur.com/cu7hTn8.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Telesystem TV (720p)",
+      "id": "TelesystemTV.pe@SD",
+      "logo": "https://i.imgur.com/CI4CNgL.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/telesystemSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Teve Empresa (720p)",
+      "id": "TeveEmpresa.pe@SD",
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/04/07/02/1775503150878/c34840061c94_480_270.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/tvempresaSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Tevesur (720p)",
+      "id": "Tevesur.pe@SD",
+      "logo": "https://i.imgur.com/LcZ2Hhd.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Turbo Mix Radio TV (720p)",
+      "id": "TurboMixRadioTV.pe@SD",
+      "logo": "https://i.imgur.com/AsdBQa3.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/turbomixSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV Cosmos (720p)",
+      "id": "TVCosmos.pe@SD",
+      "logo": "https://i.imgur.com/nr4ctt4.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV Kaliente (720p)",
+      "id": "TVKaliente.pe@SD",
+      "logo": "https://i.imgur.com/MFQpLuQ.png",
+      "grupo": "Entertainment",
+      "calidad": "720p",
+      "url": "https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV MAR (720p)",
+      "id": "TVMAR.pe@SD",
+      "logo": "https://i.imgur.com/VXvbNjT.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvmarSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV MAX (720p)",
+      "id": "TVMAX.pe@SD",
+      "logo": "https://i.imgur.com/JFBpDJ1.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV Norte Chiclayo (720p)",
+      "id": "TVNorteChiclayo.pe@SD",
+      "logo": "https://i.imgur.com/0fg6m2L.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV Peruanisima (720p)",
+      "id": "TVPeruanisima.pe@SD",
+      "logo": "https://i.imgur.com/m50qAVY.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://k20.usastreams.com:8081/tvperuanisima/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV+ Chincha (720p)",
+      "id": "TVPlusChincha.pe@SD",
+      "logo": "https://i.imgur.com/bjQpQsu.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TVUNO (720p)",
+      "id": "TVUNO.pe@SD",
+      "logo": "https://i.imgur.com/dht94P4.png",
+      "grupo": "Music",
+      "calidad": "720p",
+      "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Ucayalina de Television (720p)",
+      "id": "UcayalinadeTelevision.pe@SD",
+      "logo": "https://i.imgur.com/jBhfcqy.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Uchu TV (720p)",
+      "id": "UchuTV.pe@SD",
+      "logo": "https://i.imgur.com/xYGkUR9.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/ucayalitvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Unicentro TV (720p)",
+      "id": "UnicentroTV.pe@SD",
+      "logo": "https://i.imgur.com/lhewC3K.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Universitaria TV (720p)",
+      "id": "UniversitariaTV.pe@SD",
+      "logo": "https://i.imgur.com/OcDimHX.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Uranio TV (720p)",
+      "id": "UranioTV.pe@SD",
+      "logo": "https://i.imgur.com/EeNpfIr.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/uranioyurimaguasSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "USMPTV (720p)",
+      "id": "USMPTV.pe@SD",
+      "logo": "https://i.imgur.com/9cmIv3q.png",
+      "grupo": "Culture",
+      "calidad": "720p",
+      "url": "http://187.102.210.46/USMP/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Via Altomayo (720p) [Not 24/7]",
+      "id": "ViaAltomayo.pe@SD",
+      "logo": "https://i.imgur.com/aJ4XExn.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/viaaltomayomux/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Vision Sur (720p)",
+      "id": "VisionSur.pe@SD",
+      "logo": "https://i.imgur.com/AbZYWEQ.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Viva TV Yurimaguas (720p)",
+      "id": "VivaTVYurimaguas.pe@SD",
+      "logo": "https://i.imgur.com/GkSoxhx.png",
+      "grupo": "Undefined",
+      "calidad": "720p",
+      "url": "https://live.obslivestream.com/vivatv/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "VR Canal 21 Nasca (720p)",
+      "id": "VRCanal21Nasca.pe@SD",
+      "logo": "https://i.imgur.com/rxzz6kD.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/nasca/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Wayra TV (720p)",
+      "id": "WayraTV.pe@SD",
+      "logo": "https://i.imgur.com/eQLRVFp.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/wayratv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Wtv (720p)",
+      "id": "Wtv.pe@SD",
+      "logo": "https://i.imgur.com/V10iVeh.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Yurimaguas TV (720p)",
+      "id": "YurimaguasTV.pe@SD",
+      "logo": "https://i.imgur.com/VWC6Pt1.png",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Yurivision (720p)",
+      "id": "Yurivision.pe@SD",
+      "logo": "https://i.imgur.com/VhWuaER.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Zeleve TV (720p)",
+      "id": "ZeleveTV.pe@SD",
+      "logo": "https://i.imgur.com/CGWaunJ.jpeg",
+      "grupo": "General",
+      "calidad": "720p",
+      "url": "https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Amazonia TV",
+      "id": "AmazoniaTV.pe@SD",
+      "logo": "https://i.imgur.com/sSW7d8e.png",
+      "grupo": "General",
+      "calidad": null,
+      "url": "https://servilive.com:3199/live/amazoniatvlive.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Antares Television",
+      "id": "AntaresTelevision.pe@SD",
+      "logo": "https://i.imgur.com/05gwtk2.png",
+      "grupo": "Entertainment",
+      "calidad": null,
+      "url": "https://5949aa132c8fb.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Bicolor+ Premium [Geo-blocked]",
+      "id": "BicolorPlusPremium.pe@SD",
+      "logo": "https://img-evg3.tv360.bitel.com.pe/peru-image/2026/09/24/00/1790183086681/1dff7002a22a_640_360.png",
+      "grupo": "Sports",
+      "calidad": null,
+      "url": "https://live-evg10.tv360.bitel.com.pe/bitel/bicolorpremium_abr/bitel/bicolorpremium_720p/chunks.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "CVN TV",
+      "id": "CVNTV.pe@SD",
+      "logo": "https://i.imgur.com/QF5VUcy.png",
+      "grupo": "General",
+      "calidad": null,
+      "url": "https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "DeltaTV",
+      "id": "DeltaTV.pe@SD",
+      "logo": "https://i.imgur.com/crttwAR.png",
+      "grupo": "Undefined",
+      "calidad": null,
+      "url": "https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Diaspora TV",
+      "id": "DiasporaTV.pe@SD",
+      "logo": "https://i.imgur.com/lppmyxD.png",
+      "grupo": "Culture",
+      "calidad": null,
+      "url": "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Frecuencia Amazonica",
+      "id": "FrecuenciaAmazonica.pe@SD",
+      "logo": "https://i.imgur.com/jVkzHw0.png",
+      "grupo": "Undefined",
+      "calidad": null,
+      "url": "https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Galactica TV",
+      "id": "GalacticaTV.pe@SD",
+      "logo": "https://i.imgur.com/byL1zCV.jpeg",
+      "grupo": "Music",
+      "calidad": null,
+      "url": "https://stream.neux.site/memfs/e3f59eec-6b93-45e1-a2ab-c82381c2a9ec.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Huacho Peru TV",
+      "id": "HuachoPeruTV.pe@SD",
+      "logo": "https://i.imgur.com/PevmfqK.png",
+      "grupo": "General",
+      "calidad": null,
+      "url": "https://tv.huachotv.com/stream.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Kora TV",
+      "id": "KoraTV.pe@SD",
+      "logo": "https://i.imgur.com/ahBYv4x.png",
+      "grupo": "Entertainment",
+      "calidad": null,
+      "url": "https://s3.tvdatta.com:3700/live/jjrtvlive.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Metropolitana del Cuzco",
+      "id": "MetropolitanadelCuzco.pe@SD",
+      "logo": "https://i.imgur.com/0B04qgM.png",
+      "grupo": "Music",
+      "calidad": null,
+      "url": "https://video1.earthcam.com/myearthcam/075ff02f78c35af55564cf3af3b3f750.flv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Milenial TV",
+      "id": "MilenialTV.pe@SD",
+      "logo": "https://i.imgur.com/8ZiNoEa.png",
+      "grupo": "General",
+      "calidad": null,
+      "url": "https://www.milenial.news/salida/milenial.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Millenium 109 FM",
+      "id": "Millenium109FM.pe@SD",
+      "logo": "https://i.imgur.com/sfNL6Bv.png",
+      "grupo": "Music",
+      "calidad": null,
+      "url": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Monterrico TV",
+      "id": "MonterricoTV.pe@SD",
+      "logo": "https://i.imgur.com/SuVO9T7.png",
+      "grupo": "Sports",
+      "calidad": null,
+      "url": "https://h.jcp.live.opencaster.com/play_src/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Primavera 15",
+      "id": "Primavera15.pe@SD",
+      "logo": "https://i.imgur.com/wsJ8Ag2.png",
+      "grupo": "General",
+      "calidad": null,
+      "url": "https://mc.servidor.stream:19360/8244/8244.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Radio Chalaca",
+      "id": "RadioChalaca.pe@SD",
+      "logo": "https://i.imgur.com/9A6DBG7.png",
+      "grupo": "Music",
+      "calidad": null,
+      "url": "https://servilive.com:3414/hybrid/play.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Siscom TV",
+      "id": "SiscomTV.pe@SD",
+      "logo": "https://i.imgur.com/0JUlFZ4.png",
+      "grupo": "General",
+      "calidad": null,
+      "url": "https://video2.lhdserver.es/siscomtv/live.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Top Latino TV",
+      "id": "TopLatinoTV.pe@SD",
+      "logo": "https://i.imgur.com/VRl8nPZ.png",
+      "grupo": "Music",
+      "calidad": null,
+      "url": "http://38.87.224.20:2220/play/a02b/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TV Bella Asuncion",
+      "id": "TVBellaAsuncion.pe@SD",
+      "logo": "https://i.imgur.com/H69eLFW.png",
+      "grupo": "Undefined",
+      "calidad": null,
+      "url": "https://s2.tvdatta.com:3687/hybrid/play.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Via Television [Not 24/7]",
+      "id": "ViaTelevision.pe@SD",
+      "logo": "https://i.imgur.com/FiptbGQ.png",
+      "grupo": "General",
+      "calidad": null,
+      "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "VNP",
+      "id": "VNP.pe@SD",
+      "logo": "https://i.imgur.com/TOnknEW.png",
+      "grupo": "News",
+      "calidad": null,
+      "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
+      "opciones": []
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# Pega estas líneas al final de /etc/enigma2/bouquets.tv
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.peru_4k.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.deportes_hd.tv" ORDER BY bouquet
