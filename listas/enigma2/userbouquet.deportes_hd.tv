@@ -1,8 +1,6 @@
 #NAME Deportes HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vip-acasatv.online%3a25463/lrZuGxAuP3/6782859900/5449.m3u8:Eurosport 4K Romania (2160p) [Geo-blocked]
 #DESCRIPTION Eurosport 4K Romania (2160p) [Geo-blocked]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.180.26.103/stream/80/index.m3u8:Prima 4K (2160p)
-#DESCRIPTION Prima 4K (2160p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.53.200.153%3a7777/play/test_krask1/index.m3u8:Russian Extreme Ultra (1440p)
 #DESCRIPTION Russian Extreme Ultra (1440p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor:TRT Spor Yildiz (1440p) [Geo-blocked]
@@ -123,14 +121,16 @@
 #DESCRIPTION Eurosport 1 Polska (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s7.iptv-24.net/1439/playlist.m3u8:Eurosport 1 Russia (1080p)
 #DESCRIPTION Eurosport 1 Russia (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8:Eurosport 2 (1080p)
+#DESCRIPTION Eurosport 2 (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//57.128.210.196%3a8080/263/index.m3u8:Eurosport 2 Polska (1080p)
 #DESCRIPTION Eurosport 2 Polska (1080p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s7.iptv-24.net/1452/playlist.m3u8:Eurosport 2 Russia (1080p)
-#DESCRIPTION Eurosport 2 Russia (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg26268-amg26268c34-amgplt0018.playout.now3.amagi.tv/ts-us-e2-n1/playlist/amg26268-amg26268c34-amgplt0018/playlist.m3u8:Eurovision Sport (1080p)
 #DESCRIPTION Eurovision Sport (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8:F1 Channel (1080p) [Geo-blocked]
 #DESCRIPTION F1 Channel (1080p) [Geo-blocked]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s7.merlive.am/Fastsports/index.m3u8:Fast Sports (1080p)
+#DESCRIPTION Fast Sports (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8:Fight Network (1080p)
 #DESCRIPTION Fight Network (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8:FITE 24/7 (1080p)
@@ -545,8 +545,6 @@
 #DESCRIPTION Sqala TV (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8:Stadium (720p)
 #DESCRIPTION Stadium (720p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tvsen7.aynascope.net/ssport2hd/index.m3u8:Star Sports Select 2 HD (720p)
-#DESCRIPTION Star Sports Select 2 HD (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8:Strongman (720p)
 #DESCRIPTION Strongman (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//a-cdn.klowdtv.com/live3/swervewomenssports_720p/playlist.m3u8:Swerve Sports (720p)
