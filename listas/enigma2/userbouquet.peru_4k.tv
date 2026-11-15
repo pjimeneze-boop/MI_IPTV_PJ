@@ -71,8 +71,6 @@
 #DESCRIPTION like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="News",FuegoTV (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bantel-cdn1.iptvperu.tv%3a1935/btnscrtn/juntos_tv.stream/playlist.m3u8:like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="General",Juntos TV (Peru) (1080p)
 #DESCRIPTION like Gecko) Chrome/150.0.0.0 Safari/537.36" group-title="General",Juntos TV (Peru) (1080p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//bantel-cdn1.iptvperu.tv%3a1936/btnscrtn/Comedy_Central/playlist.m3u8:like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Comedy",Comedy Central Latin America (1080p)
-#DESCRIPTION like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Comedy",Comedy Central Latin America (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//195.178.110.110/movistar/index.m3u8:Movistar Deportes (1080p)
 #DESCRIPTION Movistar Deportes (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//15.204.246.24%3a8080/MTVHD/index.m3u8:MTV Latin America (1080p)
