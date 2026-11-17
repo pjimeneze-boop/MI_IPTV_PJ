@@ -17,6 +17,8 @@
 #DESCRIPTION Chikitoonz (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.121.15.230%3a9002/CINECANAL/index.m3u8:Cinecanal Pacific (1080p)
 #DESCRIPTION Cinecanal Pacific (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//190.93.224.42/COMEDY-CENTRAL/index.m3u8:Comedy Central Latin America (1080p)
+#DESCRIPTION Comedy Central Latin America (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.171.64.30%3a6060/play/a032/index.m3u8:Discovery Channel Latin America (1080p)
 #DESCRIPTION Discovery Channel Latin America (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//15.204.246.24%3a8080/DisneyHD/index.m3u8:Disney Channel Latin America (1080p)
@@ -337,6 +339,8 @@
 #DESCRIPTION USMPTV (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/viaaltomayomux/index.m3u8:Via Altomayo (720p) [Not 24/7]
 #DESCRIPTION Via Altomayo (720p) [Not 24/7]
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.tmcreativos.com%3a19360/cablerasvia/cablerasvia.m3u8:Via Television (720p) [Not 24/7]
+#DESCRIPTION Via Television (720p) [Not 24/7]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-evg8.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8:Vision Sur (720p)
 #DESCRIPTION Vision Sur (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/vivatv/index.m3u8:Viva TV Yurimaguas (720p)
@@ -391,7 +395,5 @@
 #DESCRIPTION Top Latino TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s2.tvdatta.com%3a3687/hybrid/play.m3u8:TV Bella Asuncion
 #DESCRIPTION TV Bella Asuncion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.tmcreativos.com%3a19360/cablerasvia/cablerasvia.m3u8:Via Television [Not 24/7]
-#DESCRIPTION Via Television [Not 24/7]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videoserver.tmcreativos.com%3a19360/visionnoticias/visionnoticias.m3u8:VNP
 #DESCRIPTION VNP

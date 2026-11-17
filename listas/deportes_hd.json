@@ -1,6 +1,6 @@
 {
   "nombre": "Deportes HD",
-  "total": 293,
+  "total": 290,
   "canales": [
     {
       "nombre": "Eurosport 4K Romania (2160p) [Geo-blocked]",
@@ -222,15 +222,6 @@
       "opciones": []
     },
     {
-      "nombre": "CazeTV (1080p)",
-      "id": "CazeTV.br@SD",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png",
-      "grupo": "Sports",
-      "calidad": "1080p",
-      "url": "http://138.204.86.4:8080/CAZE_TV/playlist.m3u8",
-      "opciones": []
-    },
-    {
       "nombre": "CCTV-16 HD (1080p)",
       "id": "CCTV16.cn@HD",
       "logo": "https://i.imgur.com/ZzV6JQp.png",
@@ -300,15 +291,6 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-      "opciones": []
-    },
-    {
-      "nombre": "Deportes TVC (1080p)",
-      "id": "DeportesTVC.hn@SD",
-      "logo": "https://i.imgur.com/Y1t8xkL.png",
-      "grupo": "Sports",
-      "calidad": "1080p",
-      "url": "http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTYXmD-MOS3u5IUkeXPpBt80/m3u8",
       "opciones": []
     },
     {
@@ -588,15 +570,6 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
-      "opciones": []
-    },
-    {
-      "nombre": "Fast Sports (1080p)",
-      "id": "FastSports.am@SD",
-      "logo": "https://i.imgur.com/VmaYUcq.png",
-      "grupo": "Sports",
-      "calidad": "1080p",
-      "url": "http://s7.merlive.am/Fastsports/index.m3u8",
       "opciones": []
     },
     {
