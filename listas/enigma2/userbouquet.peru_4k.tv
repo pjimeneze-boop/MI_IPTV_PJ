@@ -103,6 +103,8 @@
 #DESCRIPTION Star Channel Latin America (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//15.204.246.24%3a8080/StudioUniversalHD/index.m3u8:Studio Universal Latin America (1080p)
 #DESCRIPTION Studio Universal Latin America (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8:TELE 6 (1080p)
+#DESCRIPTION TELE 6 (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//45.5.57.58%3a8000/play/a038/index.m3u8:Television Tarapoto (1080p)
 #DESCRIPTION Television Tarapoto (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//38.134.250.110%3a8000/play/a00n/index.m3u8:TLC Latin America (1080p)
@@ -295,8 +297,6 @@
 #DESCRIPTION Studio Pasco TV (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8:Super Canal (Peru) (720p)
 #DESCRIPTION Super Canal (Peru) (720p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8:TELE 6 (720p)
-#DESCRIPTION TELE 6 (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live.obslivestream.com/telecolormux/index.m3u8:Telecolor Yurimaguas (720p) [Not 24/7]
 #DESCRIPTION Telecolor Yurimaguas (720p) [Not 24/7]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live-evg7.tv360.bitel.com.pe/bitel/teleselva/playlist.m3u8:Teleselva (720p)

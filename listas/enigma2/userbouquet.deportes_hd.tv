@@ -11,10 +11,6 @@
 #DESCRIPTION like Geck0) Chrome/102.0.0.0 Safari/537.37" group-title="Sports",Tigo Sports+ (1280p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fox.hostlagarto.com%3a8081/toursporttv/playlist.m3u8:Tour Spot TV (1280p) [Not 24/7]
 #DESCRIPTION Tour Spot TV (1280p) [Not 24/7]
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.33.29.115%3a8080/sportplus/index.m3u8:5Plus (1080p)
-#DESCRIPTION 5Plus (1080p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//89.33.29.115%3a8080/IL_5Stars/index.m3u8:5Stars (1080p)
-#DESCRIPTION 5Stars (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8:A Spor SD (1080p)
 #DESCRIPTION A Spor SD (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//raycom-accdn-firetv.amagi.tv/playlist.m3u8:ACC Digital Network (1080p)
@@ -357,8 +353,8 @@
 #DESCRIPTION viju+ Sport HD (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fonbet.mediacdn.ru/live/volleyball/playlist.m3u8:Volleyball (1080p)
 #DESCRIPTION Volleyball (1080p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//34.92.70.128/VOYO-SPORT-1/index.m3u8:Voyo Sport 1 (1080p)
-#DESCRIPTION Voyo Sport 1 (1080p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vip-acasatv.online%3a25463/lrZuGxAuP3/6782859900/16677.m3u8:Voyo Sport 1 (1080i)
+#DESCRIPTION Voyo Sport 1 (1080i)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8:Willow Sports (1080p)
 #DESCRIPTION Willow Sports (1080p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//138.121.15.230%3a9002/WIN-SPORT/index.m3u8:Win Sports (1080p)
@@ -513,6 +509,8 @@
 #DESCRIPTION PBR RidePass (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-64f6180130ab3300083d896b.m3u8:PFL MMA (720p)
 #DESCRIPTION PFL MMA (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//distro-timesgroup.vgcdn.net/vglive-sk-843549/playlist.m3u8:Pickleball Now (720p) [Geo-blocked]
+#DESCRIPTION Pickleball Now (720p) [Geo-blocked]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8:PK Sports (720p)
 #DESCRIPTION PK Sports (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8:Pluto TV Snooker 900 (Sweden) (720p)

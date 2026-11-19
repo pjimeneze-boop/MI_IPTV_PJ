@@ -479,6 +479,15 @@
       "opciones": []
     },
     {
+      "nombre": "TELE 6 (1080p)",
+      "id": "TELE6.bo@SD",
+      "logo": "https://i.imgur.com/p7tt72X.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "Television Tarapoto (1080p)",
       "id": "TelevisionTarapoto.pe@SD",
       "logo": "https://i.imgur.com/Dzen7sh.png",
@@ -1344,15 +1353,6 @@
       "grupo": "Undefined",
       "calidad": "720p",
       "url": "https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8",
-      "opciones": []
-    },
-    {
-      "nombre": "TELE 6 (720p)",
-      "id": "TELE6.bo@SD",
-      "logo": "https://i.imgur.com/p7tt72X.png",
-      "grupo": "General",
-      "calidad": "720p",
-      "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
       "opciones": []
     },
     {
