@@ -1,6 +1,6 @@
 {
   "nombre": "Deportes HD",
-  "total": 292,
+  "total": 293,
   "canales": [
     {
       "nombre": "Eurosport 4K Romania (2160p) [Geo-blocked]",
@@ -497,7 +497,7 @@
       "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9LQS.png?lock=720x540",
       "grupo": "Sports",
       "calidad": "1080p",
-      "url": "https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8",
+      "url": "http://116.90.120.149:8000/play/a118/index.m3u8",
       "opciones": []
     },
     {
@@ -552,6 +552,15 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "FIFA+ (1080p)",
+      "id": "FIFAPlus.uk@English",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8",
       "opciones": []
     },
     {
@@ -1057,6 +1066,15 @@
       "opciones": []
     },
     {
+      "nombre": "Monster Jam (1080p)",
+      "id": "MonsterJam.us@SD",
+      "logo": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
+      "grupo": "Outdoor;Sports",
+      "calidad": "1080p",
+      "url": "https://wurlspacemob.global.transmit.live/hls/6791101f0b2848c81efe74d7/v1/answermedia_monsterjam_1/vizio_us/latest/main/hls/playlist.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "More Than Sports TV (1080p)",
       "id": "MoreThanSportsTV.de@SD",
       "logo": "https://i.imgur.com/SLrjImc.png",
@@ -1162,6 +1180,15 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Pickleball TV (1080p) [Geo-blocked]",
+      "id": "PickleballTV.us@HD",
+      "logo": "https://pickleballtv.com/wp-content/themes/bootscore-child-main/img/logo/full-logo.svg",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://amg27547-amg27547c1-amgplt0022.playout.now3.amagi.tv/playlist.m3u8",
       "opciones": []
     },
     {
@@ -1423,6 +1450,15 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "http://195.178.110.110/sportv3/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Stadium (1080p)",
+      "id": "Stadium.us@SD",
+      "logo": "https://i.imgur.com/SnZOiER.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8",
       "opciones": []
     },
     {
@@ -1948,15 +1984,6 @@
       "opciones": []
     },
     {
-      "nombre": "FIFA+ (720p)",
-      "id": "FIFAPlus.uk@English",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png",
-      "grupo": "Sports",
-      "calidad": "720p",
-      "url": "https://jmp2.uk/plu-660c29b5aec9680008f5b4a4.m3u8",
-      "opciones": []
-    },
-    {
       "nombre": "FIFA+ Women (720p)",
       "id": "FIFAPlusWomen.uk@English",
       "logo": "https://i.imgur.com/xy9ZxVO.png",
@@ -2244,15 +2271,6 @@
       "opciones": []
     },
     {
-      "nombre": "Monster Jam (720p)",
-      "id": "MonsterJam.us@SD",
-      "logo": "https://provider-static.plex.tv/epg/cms/production/23824964-562b-4498-9eaa-d6262cb7e0c3/Monster_Jam_Logo_on_Transparent_1500x1000_Casey_Murawski.png",
-      "grupo": "Outdoor;Sports",
-      "calidad": "720p",
-      "url": "https://jmp2.uk/plu-65bcc9c8d77d450008b34c6b.m3u8",
-      "opciones": []
-    },
-    {
       "nombre": "MSG (720p)",
       "id": "MSG.us@SD",
       "logo": "https://i.imgur.com/SEQFh0P.png",
@@ -2496,15 +2514,6 @@
       "opciones": []
     },
     {
-      "nombre": "Stadium (720p)",
-      "id": "Stadium.us@SD",
-      "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/960px-Stadium_%28sports_network%29_logo.svg.png",
-      "grupo": "Sports",
-      "calidad": "720p",
-      "url": "https://wurl120sports.global.transmit.live/hls/679a907dce42a042c23ace37/v1/stadium_gracenote/samsung_us/latest/main/hls/playlist.m3u8",
-      "opciones": []
-    },
-    {
       "nombre": "Strongman (720p)",
       "id": "Strongman.us@Germany",
       "logo": "https://i.imgur.com/bVQBF6R.png",
@@ -2543,7 +2552,7 @@
     {
       "nombre": "Tigo Sports (Bolivia) (720p) [Geo-blocked]",
       "id": "TigoSports.bo@SD",
-      "logo": "https://i.imgur.com/6wkmgGM.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png",
       "grupo": "Sports",
       "calidad": "720p",
       "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
@@ -2651,7 +2660,7 @@
     {
       "nombre": "VTV6 (720p)",
       "id": "VTV6.vn@HD",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/VTV6_logo_2026_final.svg/960px-VTV6_logo_2026_final.svg.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/VTV6_new_logo_2026.webp",
       "grupo": "Sports",
       "calidad": "720p",
       "url": "https://dethich.pw/vtv6/index.m3u8",
