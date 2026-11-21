@@ -1,6 +1,6 @@
 {
   "nombre": "Deportes HD",
-  "total": 293,
+  "total": 303,
   "canales": [
     {
       "nombre": "Eurosport 4K Romania (2160p) [Geo-blocked]",
@@ -159,6 +159,15 @@
       "opciones": []
     },
     {
+      "nombre": "beIN Sports 1 Turk (1080p)",
+      "id": "beINSports1Turk.tr@SD",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F300113394ceebba66c8ad",
+      "opciones": []
+    },
+    {
       "nombre": "beIN SPORTS XTRA (1080p)",
       "id": "beINSPORTSXTRA.us@SD",
       "logo": "https://i.ibb.co/HT49GPmB/XTRA-2.png",
@@ -195,7 +204,7 @@
       "opciones": []
     },
     {
-      "nombre": "Canal+ Sport (France) (1080p) [Geo-blocked]",
+      "nombre": "Canal+ Sport (1080p) [Geo-blocked]",
       "id": "CanalPlusSport.fr@SD",
       "logo": "https://i.imgur.com/EOXnU15.png",
       "grupo": "Sports",
@@ -534,6 +543,24 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "http://57.128.210.196:8080/263/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Eurosport 3 Polska (1080p)",
+      "id": "Eurosport3Polska.pl@SD",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F5121596371c5191ed9b35",
+      "opciones": []
+    },
+    {
+      "nombre": "Eurosport 4 Polska (1080p)",
+      "id": "Eurosport4Polska.pl@SD",
+      "logo": "https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2896573317d9d69e0e2d72",
       "opciones": []
     },
     {
@@ -1354,6 +1381,24 @@
       "opciones": []
     },
     {
+      "nombre": "Sony Sports Ten 1 HD (1080p)",
+      "id": "SonySportsTen1.in@HD",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://116.90.120.149:8000/play/a11t/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Sony Sports Ten 2 HD (1080p)",
+      "id": "SonySportsTen2.in@HD",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://116.90.120.149:8000/play/a137/index.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "Sony Sports Ten 3 Hindi (1080p)",
       "id": "SonySportsTen3Hindi.in@SD",
       "logo": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540",
@@ -1459,6 +1504,33 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "https://wurl120sports.global.transmit.live/hls/6865b0ce3b41686108809e5a/v1/stadium_gracenote/vizio_us/latest/main/hls/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Star Sports 1 HD (1080p)",
+      "id": "StarSports1.in@HD",
+      "logo": "https://i.imgur.com/E5jjKHI.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://116.90.120.149:8000/play/a11x/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Star Sports 1 Hindi HD (1080p)",
+      "id": "StarSports1Hindi.in@HD",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://116.90.120.149:8000/play/a122/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Star Sports 2 HD (1080p)",
+      "id": "StarSports2.in@HD",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_2/images/LOGO_HD/image.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://116.90.120.149:8000/play/a120/index.m3u8",
       "opciones": []
     },
     {
@@ -1648,6 +1720,24 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "https://d1t5afz6qed3xk.cloudfront.net/Unbeaten.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Unite8 Sports 1 HD (1080p)",
+      "id": "Unite8Sports1.in@HD",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE_HD/images/LOGO_HD/LOGO_HD_F6ILcp4Kk_UNITE8-SPORTS-1_HD_264X144.webp",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://116.90.120.149:8000/play/a125/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Unite8 Sports 2 HD (1080p)",
+      "id": "Unite8Sports2.in@HD",
+      "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_qVrE3q5rN_UNITE8-SPORTS-2_HD_264X144.webp",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://116.90.120.149:8000/play/a129/index.m3u8",
       "opciones": []
     },
     {
