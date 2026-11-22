@@ -573,6 +573,8 @@
 #DESCRIPTION Talent TV (720p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8:TDM Sports (720p)
 #DESCRIPTION TDM Sports (720p)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8:Teledeporte (720p) [Geo-blocked]
+#DESCRIPTION Teledeporte (720p) [Geo-blocked]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8:Tigo Sports (Bolivia) (720p) [Geo-blocked]
 #DESCRIPTION Tigo Sports (Bolivia) (720p) [Geo-blocked]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//live20.bozztv.com/akamaissh101/ssh101/livetigocr/playlist.m3u8:Tigo Sports (Costa Rica) (720p) [Geo-blocked]

@@ -1,11 +1,11 @@
 {
   "nombre": "Deportes HD",
-  "total": 303,
+  "total": 304,
   "canales": [
     {
       "nombre": "Eurosport 4K Romania (2160p) [Geo-blocked]",
       "id": "Eurosport4K.fr@Romania",
-      "logo": "https://i.imgur.com/0o3zjC7.png",
+      "logo": "https://web02.antik.sk/assets/img/channels/645a85b97a8257d6702639d6e540fe5b.svg",
       "grupo": "Sports",
       "calidad": "2160p",
       "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5449.m3u8",
@@ -2637,6 +2637,15 @@
       "grupo": "Sports",
       "calidad": "720p",
       "url": "https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Teledeporte (720p) [Geo-blocked]",
+      "id": "Teledeporte.es@SD",
+      "logo": "https://i.ibb.co/0jxLdjnY/TDP.png",
+      "grupo": "Sports",
+      "calidad": "720p",
+      "url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8",
       "opciones": []
     },
     {

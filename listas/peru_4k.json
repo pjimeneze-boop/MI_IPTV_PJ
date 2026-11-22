@@ -1,6 +1,6 @@
 {
   "nombre": "Perú 4K",
-  "total": 199,
+  "total": 205,
   "canales": [
     {
       "nombre": "A&E Latin America (1080p)",
@@ -219,6 +219,15 @@
       "opciones": []
     },
     {
+      "nombre": "HGTV Latin America (1080p)",
+      "id": "HGTVLatinAmerica.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png",
+      "grupo": "Lifestyle",
+      "calidad": "1080p",
+      "url": "http://38.87.224.19:2220/play/a01p/index.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "History Latin America (1080p)",
       "id": "HistoryLatinAmerica.us@Panregional",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",
@@ -380,6 +389,15 @@
       "opciones": []
     },
     {
+      "nombre": "Onda TV (Peru) (1080p)",
+      "id": "OndaTV.pe@SD",
+      "logo": "https://i.imgur.com/gbjdiLW.jpeg",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "Pakapaka (1080p)",
       "id": "Pakapaka.ar@SD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paka-Paka-2025.svg/1920px-Paka-Paka-2025.svg.png",
@@ -452,6 +470,24 @@
       "opciones": []
     },
     {
+      "nombre": "SanjuaneraTV (1080p)",
+      "id": "SanjuaneraTV.pe@SD",
+      "logo": "https://i.imgur.com/QB3tz0d.png",
+      "grupo": "Music",
+      "calidad": "1080p",
+      "url": "https://live.obslivestream.com/sanjuanera/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "SelvaTV (1080p)",
+      "id": "SelvaTV.pe@SD",
+      "logo": "https://i.imgur.com/CVgix1C.png",
+      "grupo": "Undefined",
+      "calidad": "1080p",
+      "url": "https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "Space (1080p)",
       "id": "Space.ar@Panregional",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",
@@ -479,12 +515,30 @@
       "opciones": []
     },
     {
+      "nombre": "Sullana TV (1080p)",
+      "id": "SullanaTV.pe@SD",
+      "logo": "https://i.imgur.com/BOqtK0a.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://mundial.cpustream.com:8081/sullanatv/video.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "TELE 6 (1080p)",
       "id": "TELE6.bo@SD",
       "logo": "https://i.imgur.com/p7tt72X.png",
       "grupo": "General",
       "calidad": "1080p",
       "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Telelima (1080p)",
+      "id": "Telelima.pe@SD",
+      "logo": "https://telelima.pe/img/logo.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://live.telelima.net/web/index.m3u8",
       "opciones": []
     },
     {
@@ -512,6 +566,15 @@
       "grupo": "Series",
       "calidad": "1080p",
       "url": "http://168.196.127.137:6001/play/a095/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Tooncast (1080p)",
+      "id": "Tooncast.us@Panregional",
+      "logo": "https://i.imgur.com/3yXRbQy.png",
+      "grupo": "Animation;Kids",
+      "calidad": "1080p",
+      "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8",
       "opciones": []
     },
     {
@@ -566,6 +629,15 @@
       "grupo": "Undefined",
       "calidad": "1080p",
       "url": "http://15.204.246.24:8080/UniversalHD/index.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "USIL TV (1080p)",
+      "id": "USILTV.pe@SD",
+      "logo": "https://i.imgur.com/9OXF9EK.png",
+      "grupo": "General",
+      "calidad": "1080p",
+      "url": "https://eu1.servers10.com:8081/8162/index.m3u8",
       "opciones": []
     },
     {
@@ -1028,17 +1100,6 @@
       "opciones": []
     },
     {
-      "nombre": "like Gecko) Chrome/124.0.0.0 Safari/537.36\" group-title=\"General\",Telelima (720p)",
-      "id": "Telelima.pe@SD",
-      "logo": "https://telelima.pe/img/logo.png",
-      "grupo": "",
-      "calidad": "720p",
-      "url": "http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8",
-      "opciones": [
-        "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
-      ]
-    },
-    {
       "nombre": "LotPlus TV (720p)",
       "id": "LotPlusTV.pe@SD",
       "logo": "https://i.imgur.com/gBbCDCL.png",
@@ -1135,15 +1196,6 @@
       "grupo": "General",
       "calidad": "720p",
       "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
-      "opciones": []
-    },
-    {
-      "nombre": "Onda TV (Peru) (720p)",
-      "id": "OndaTV.pe@SD",
-      "logo": "https://i.imgur.com/gbjdiLW.jpeg",
-      "grupo": "General",
-      "calidad": "720p",
-      "url": "https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8",
       "opciones": []
     },
     {
