@@ -1,6 +1,6 @@
 {
   "nombre": "Perú 4K",
-  "total": 205,
+  "total": 206,
   "canales": [
     {
       "nombre": "A&E Latin America (1080p)",
@@ -54,15 +54,6 @@
       "grupo": "Movies",
       "calidad": "1080p",
       "url": "http://181.78.8.199:8000/play/a0cu/index.m3u8",
-      "opciones": []
-    },
-    {
-      "nombre": "Canal N (1080p)",
-      "id": "CanalN.pe@SD",
-      "logo": "https://i.imgur.com/Xytvw3J.png",
-      "grupo": "News",
-      "calidad": "1080p",
-      "url": "http://187.102.208.209:8000/play/a0az/index.m3u8",
       "opciones": []
     },
     {
@@ -1633,6 +1624,15 @@
       "opciones": []
     },
     {
+      "nombre": "Warner Channel (720p)",
+      "id": "WarnerChannel.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Warner_Channel_2026.svg/960px-Warner_Channel_2026.svg.png",
+      "grupo": "Movies",
+      "calidad": "720p",
+      "url": "http://181.78.197.59:8000/play/a07s/index.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "Wayra TV (720p)",
       "id": "WayraTV.pe@SD",
       "logo": "https://i.imgur.com/eQLRVFp.png",
@@ -1729,6 +1729,15 @@
       "grupo": "Culture",
       "calidad": null,
       "url": "https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "DSports 2",
+      "id": "DSports2.us@Panregional",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/960px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",
+      "grupo": "Sports",
+      "calidad": null,
+      "url": "http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8",
       "opciones": []
     },
     {
