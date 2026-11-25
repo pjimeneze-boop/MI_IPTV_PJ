@@ -1,6 +1,6 @@
 {
   "nombre": "Deportes HD",
-  "total": 298,
+  "total": 297,
   "canales": [
     {
       "nombre": "Eurosport 4K Romania (2160p) [Geo-blocked]",
@@ -1739,12 +1739,12 @@
       "opciones": []
     },
     {
-      "nombre": "Voyo Sport 1 (1080i)",
+      "nombre": "Voyo Sport 1 (1080p)",
       "id": "VoyoSport1.ro@HD",
       "logo": "https://static.wikia.nocookie.net/logopedia/images/a/a3/VoyoSport1.svg",
       "grupo": "Sports",
       "calidad": "1080p",
-      "url": "https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8",
+      "url": "http://89.45.22.101:8011/play/1/index.m3u8",
       "opciones": []
     },
     {
@@ -2536,15 +2536,6 @@
       "grupo": "Sports",
       "calidad": "720p",
       "url": "https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:simotori.smil/playlist.m3u8",
-      "opciones": []
-    },
-    {
-      "nombre": "Sports Television (720p) [Not 24/7]",
-      "id": "SportsTelevision.kp@HD",
-      "logo": "https://i.imgur.com/HvFpGeH.png",
-      "grupo": "Sports",
-      "calidad": "720p",
-      "url": "https://live.koryocdn.org/sports/index.m3u8",
       "opciones": []
     },
     {
