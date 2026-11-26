@@ -1,6 +1,4 @@
 #NAME Deportes HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vip-acasatv.online%3a25463/lrZuGxAuP3/6782859900/5449.m3u8:Eurosport 4K Romania (2160p) [Geo-blocked]
-#DESCRIPTION Eurosport 4K Romania (2160p) [Geo-blocked]
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.53.200.153%3a7777/play/test_krask1/index.m3u8:Russian Extreme Ultra (1440p)
 #DESCRIPTION Russian Extreme Ultra (1440p)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor:TRT Spor Yildiz (1440p) [Geo-blocked]
