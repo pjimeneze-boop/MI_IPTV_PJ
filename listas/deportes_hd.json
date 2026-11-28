@@ -1,6 +1,6 @@
 {
   "nombre": "Deportes HD",
-  "total": 300,
+  "total": 302,
   "canales": [
     {
       "nombre": "Russian Extreme Ultra (1440p)",
@@ -330,6 +330,15 @@
       "opciones": []
     },
     {
+      "nombre": "DAZN F1 (1080p)",
+      "id": "DAZNF1.uk@Spain",
+      "logo": "https://i.imgur.com/yFCr5XX.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://45.134.141.161:2200/ARG/Formula_1_HD/index.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "DD Sports (1080p)",
       "id": "DDSports.in@SD",
       "logo": "https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540",
@@ -488,7 +497,7 @@
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/960px-ESPN_5_logo.svg.png",
       "grupo": "Sports",
       "calidad": "1080p",
-      "url": "https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8",
+      "url": "http://181.78.12.119:16123/play/ch19/index.m3u8",
       "opciones": []
     },
     {
@@ -615,6 +624,15 @@
       "grupo": "Sports",
       "calidad": "1080p",
       "url": "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "Fast Sports 1 (1080p)",
+      "id": "FastSports1.am@SD",
+      "logo": "https://i.imgur.com/VmaYUcq.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "http://s7.merlive.am/Fastsports/index.m3u8",
       "opciones": []
     },
     {
@@ -762,6 +780,15 @@
       "opciones": []
     },
     {
+      "nombre": "Hard Knocks (1080p) [Not 24/7]",
+      "id": "HardKnocks.ca@SD",
+      "logo": "https://i.imgur.com/nt9B6jx.png",
+      "grupo": "Sports",
+      "calidad": "1080p",
+      "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8",
+      "opciones": []
+    },
+    {
       "nombre": "HTSpor TV (1080p)",
       "id": "HTSporTV.tr@SD",
       "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
@@ -893,17 +920,6 @@
       "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8",
       "opciones": [
         "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-      ]
-    },
-    {
-      "nombre": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Sports\",Hard Knocks (1080p)",
-      "id": "HardKnocks.ca@SD",
-      "logo": "https://i.imgur.com/nt9B6jx.png",
-      "grupo": "",
-      "calidad": "1080p",
-      "url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418",
-      "opciones": [
-        "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0"
       ]
     },
     {
@@ -1694,15 +1710,6 @@
       "opciones": []
     },
     {
-      "nombre": "TVP Sport (1080p) [Not 24/7]",
-      "id": "TVPSport.pl@SD",
-      "logo": "https://i.imgur.com/JUZDOCO.png",
-      "grupo": "Sports",
-      "calidad": "1080p",
-      "url": "rtsp://213.189.46.75/wmt-14963-1.sdp",
-      "opciones": []
-    },
-    {
       "nombre": "TVRI Sport (1080p)",
       "id": "TVRISport.id@SD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png",
@@ -1780,7 +1787,7 @@
       "logo": "https://i.imgur.com/0UN87vB.png",
       "grupo": "Sports",
       "calidad": "1080p",
-      "url": "http://181.78.12.119:16123/play/ch19/index.m3u8",
+      "url": "http://190.61.42.218:9000/play/a01s/index.m3u8",
       "opciones": []
     },
     {
@@ -2662,6 +2669,15 @@
       "grupo": "Sports",
       "calidad": "720p",
       "url": "http://cdn.tvmatic.net/fight.m3u8",
+      "opciones": []
+    },
+    {
+      "nombre": "TVP Sport (720p)",
+      "id": "TVPSport.pl@SD",
+      "logo": "https://i.imgur.com/JUZDOCO.png",
+      "grupo": "Sports",
+      "calidad": "720p",
+      "url": "http://91.226.96.110:5555/tvpsport/index.m3u8",
       "opciones": []
     },
     {
